@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio-react/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio-react/static/js/main.fffa36a5.js",
+    "static/media/climate.png": "/Portfolio-react/static/media/climate.8be3f9e1877ffb0cf8fa.png",
+    "static/media/flatpack.png": "/Portfolio-react/static/media/flatpack.ef8ccd466983638e4766.png",
+    "static/media/VI.jpg": "/Portfolio-react/static/media/VI.2be6a0efb074e01b7930.jpg",
+    "static/media/resturant.png": "/Portfolio-react/static/media/resturant.718fb9625dc588642c13.png",
+    "static/media/SI-II.jpg": "/Portfolio-react/static/media/SI-II.ff05516ea874ff6519fd.jpg",
+    "static/media/FSI.jpg": "/Portfolio-react/static/media/FSI.d04acc436ffe7976a95c.jpg",
+    "static/media/file.png": "/Portfolio-react/static/media/file.589df851f3239372958a.png",
+    "static/media/cc.png": "/Portfolio-react/static/media/cc.c6758233a8ff9d784c8f.png",
+    "static/media/cycle.png": "/Portfolio-react/static/media/cycle.73fdb24030084c8b668d.png",
+    "static/media/SI-I.png": "/Portfolio-react/static/media/SI-I.dcadf7e4fa530529c6d0.png",
+    "static/media/whatsapp.png": "/Portfolio-react/static/media/whatsapp.36769889552f29200cb7.png",
+    "static/media/chatbot.jpg": "/Portfolio-react/static/media/chatbot.4b21d11568456e0e2364.jpg",
+    "static/media/login.png": "/Portfolio-react/static/media/login.091767f7e61b8bc68f45.png",
+    "static/media/random.png": "/Portfolio-react/static/media/random.94c82390a911f5761975.png",
+    "static/media/PP.jpg": "/Portfolio-react/static/media/PP.48a868a3b0d8f0122036.jpg",
+    "static/media/sales.jpeg": "/Portfolio-react/static/media/sales.6f416560c3c4f1703680.jpeg",
+    "static/media/autisum.jpeg": "/Portfolio-react/static/media/autisum.587979265449dde64f74.jpeg",
+    "index.html": "/Portfolio-react/index.html",
+    "main.bf538fe7.css.map": "/Portfolio-react/static/css/main.bf538fe7.css.map",
+    "main.fffa36a5.js.map": "/Portfolio-react/static/js/main.fffa36a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.fffa36a5.js"
+  ]
+}
